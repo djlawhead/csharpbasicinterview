@@ -4,6 +4,8 @@
 
 This repo contains a couple different projects and their tests. Each project represents a different problem to solve.
 
+These problems are aimed at early career developers. If they're too easy, there are plenty of very challenging online "hacker" sites to play with, which an awful lot of interviewers get their questions from. 
+
 Every project has a sibling test project, with the suffix `Tests`. The goal is to write code such that all the tests pass. Note that not all possible tests may have been provided for you, because part of the exercise is to demonstrate your knowledge of [Test Driven Design (TDD).](https://www.agilealliance.org/glossary/tdd/) A good rule of the thumb for these exercises is to observe what is being asked of you, and see if a test exists. If it doesn't, begin by writing a test that demonstrates the working solution, then write the actual solution.
 
 ### Test Driven Design: An Example
